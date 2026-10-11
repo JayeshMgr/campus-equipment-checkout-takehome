@@ -7,3 +7,6 @@ CSE 3310 Git Version Control Part 2
 Tracks laptops, cameras, and lab kits.
 ## Equipment Search
 Students can search for available campus equipment.
+
+
+Amira - camera
