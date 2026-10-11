@@ -4,7 +4,6 @@ CSE 3310 Git Version Control Part 2
 
 # Campus Equipment Checkout
 
-Tracks laptops, cameras, and lab kits available for student checkout.
-
+Tracks laptops, cameras.
 ## Equipment Search
 Students can search for available campus equipment.
